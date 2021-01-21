@@ -1,3 +1,24 @@
-# google_clone
+# googleclone
 
-Its google_clone using VUE.js which use google api to search for required topic on google search engine.
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
